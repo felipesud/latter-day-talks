@@ -2,6 +2,10 @@
 
 This project aims to create a tool for generating invitations for speeches of The Church of Jesus Christ of Latter-day Saints. It includes a login page for two types of users (Bishopric and Secretary), a dashboard with options for managing invitations, searching previous invitations, managing speakers, and managing users (for administrators only). The project uses HTML, CSS, JavaScript, Bootstrap, Angular, Node.js, and MongoDB.
 
+### Disclaimer:
+
+This project is created solely for the purpose of practicing development skills and for friendly use. The creator of this project is not an employee of The Church of Jesus Christ of Latter-day Saints and has no contract or affiliation with the organization. This project is not intended for commercial use or profit.
+
 ## Features
 
 ### Sprint 1
