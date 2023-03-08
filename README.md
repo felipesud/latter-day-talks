@@ -27,8 +27,8 @@ This project is created solely for the purpose of practicing development skills 
 
 To run this project, you need to have Node.js and MongoDB installed on your machine.
 
-1. Clone the repository: `git clone https://github.com/your-username/invitation-generator.git`
-2. Navigate to the project directory: `cd invitation-generator`
+1. Clone the repository: `git clone https://github.com/your-username/latter-day-talks.git`
+2. Navigate to the project directory: `cd latter-day-talks`
 3. Install the dependencies: `npm install`
 4. Run the project: `npm start`
 
