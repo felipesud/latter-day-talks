@@ -1,43 +1,27 @@
-# Invitation Generator for The Church of Jesus Christ of Latter-day Saints Speeches
+# LatterDayTalks
 
-This project aims to create a tool for generating invitations for speeches of The Church of Jesus Christ of Latter-day Saints. It includes a login page for two types of users (Bishopric and Secretary), a dashboard with options for managing invitations, searching previous invitations, managing speakers, and managing users (for administrators only). The project uses HTML, CSS, JavaScript, Bootstrap, Angular, Node.js, and MongoDB.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-### Disclaimer:
+## Development server
 
-This project is created solely for the purpose of practicing development skills and for friendly use. The creator of this project is not an employee of The Church of Jesus Christ of Latter-day Saints and has no contract or affiliation with the organization. This project is not intended for commercial use or profit.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Features
+## Code scaffolding
 
-### Sprint 1
-- Login page for Bishopric and Secretary users
-- Bishopric users can manage other users
-- Secretary users can manage invitations
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-### Sprint 2
-- Dashboard with options for managing invitations, speakers, users, and searching previous invitations
-- CRUD operations for managing users and speakers
-- CRUD operations for managing invitations and a search option by speaker
+## Build
 
-### Sprint 3
-- Creation of a new invitation with fields for speaker, topic, time, reference, and date
-- Generation of an A4-sized PDF with the information entered and a standard text for the invitation, including some recommendations and citations, and a field for the Bishopric member's signature
-- Ability for the Administrator user to edit the standard text
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Installation
+## Running unit tests
 
-To run this project, you need to have Node.js and MongoDB installed on your machine.
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-1. Clone the repository: `git clone https://github.com/felipesud/latter-day-talks.git`
-2. Navigate to the project directory: `cd latter-day-talks`
-3. Install the dependencies: `npm install`
-4. Run the project: `npm start`
+## Running end-to-end tests
 
-## Contributing
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Further help
 
-Please make sure to update tests as appropriate.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
